@@ -1,42 +1,42 @@
-# ToDoList
+# 📝 ToDoList
 
 Bu proje, günlük görevlerinizi düzenli bir şekilde yönetmenizi sağlayan bir ToDoList uygulamasıdır. **ToDoList**, yapılacak görevleri kolayca ekleyebileceğiniz, düzenleyebileceğiniz ve tamamladığınızda işaretleyebileceğiniz basit bir uygulama olarak geliştirilmiştir.
 
-## İçindekiler
+## 📋 İçindekiler
 
-- [Özellikler](#özellikler)
-- [Kullanılan Teknolojiler](#kullanılan-teknolojiler)
-- [Kurulum](#kurulum)
-- [Kullanım](#kullanım)
-- [Katkı](#katkı)
-- [Lisans](#lisans)
+- [✨ Özellikler](#özellikler)
+- [💻 Kullanılan Teknolojiler](#kullanılan-teknolojiler)
+- [⚙️ Kurulum](#kurulum)
+- [🚀 Kullanım](#kullanım)
+- [🤝 Katkı](#katkı)
+- [📄 Lisans](#lisans)
 
-## Özellikler
+## ✨ Özellikler
 
-- Görev ekleme, düzenleme ve silme
-- Tamamlanan görevleri işaretleme
-- Görevlerin tamamlanma durumlarını takip etme
-- Kullanıcı dostu ve basit bir arayüz
+- 🆕 Görev ekleme, düzenleme ve silme
+- ✅ Tamamlanan görevleri işaretleme
+- 📅 Görevlerin tamamlanma durumlarını takip etme
+- 🖥️ Kullanıcı dostu ve basit bir arayüz
 
-## Kullanılan Teknolojiler
+## 💻 Kullanılan Teknolojiler
 
 Bu projede aşağıdaki teknolojiler ve araçlar kullanılmıştır:
 
-- **Python** - Backend işlemleri için
-- **Flask** - Web framework
-- **HTML/CSS** - Arayüz tasarımı için
-- **JavaScript** - Dinamik içerik ve kullanıcı etkileşimi için
-- **SQLite** - Veritabanı yönetimi için
+- 🐍 **Python** - Backend işlemleri için
+- 🔥 **Flask** - Web framework
+- 🎨 **HTML/CSS** - Arayüz tasarımı için
+- ⚙️ **JavaScript** - Dinamik içerik ve kullanıcı etkileşimi için
+- 🗄️ **SQLite** - Veritabanı yönetimi için
 
-## Kurulum
+## ⚙️ Kurulum
 
 Proje dosyalarını bilgisayarınıza indirdikten sonra aşağıdaki adımları izleyerek kurulumu tamamlayabilirsiniz.
 
 ### Gereksinimler
 
-- Python 3.x
-- Flask (Python kütüphanesi)
-- Git (projenin güncellemelerini takip etmek için opsiyonel)
+- 🐍 Python 3.x
+- 🔥 Flask (Python kütüphanesi)
+- 🌐 Git (projenin güncellemelerini takip etmek için opsiyonel)
 
 ### Adım 1: Projeyi Klonlayın
 
@@ -65,13 +65,13 @@ flask run
 
 Tarayıcınızda `http://127.0.0.1:5000` adresine giderek uygulamaya erişebilirsiniz.
 
-## Kullanım
+## 🚀 Kullanım
 
-1. **Görev Ekleme** - Yeni bir görev eklemek için ana sayfadaki görev ekleme formunu kullanın.
-2. **Görev Düzenleme** - Eklenmiş görevlerin üzerine tıklayarak düzenleme moduna geçin.
-3. **Görev Tamamlama** - Tamamlanan görevleri işaretleyerek takip edin veya görevleri silin.
+1. 🆕 **Görev Ekleme** - Yeni bir görev eklemek için ana sayfadaki görev ekleme formunu kullanın.
+2. ✏️ **Görev Düzenleme** - Eklenmiş görevlerin üzerine tıklayarak düzenleme moduna geçin.
+3. ✅ **Görev Tamamlama** - Tamamlanan görevleri işaretleyerek takip edin veya görevleri silin.
 
-## Katkı
+## 🤝 Katkı
 
 Katkıda bulunmak isterseniz, lütfen şu adımları izleyin:
 
@@ -81,6 +81,6 @@ Katkıda bulunmak isterseniz, lütfen şu adımları izleyin:
 4. Dalınızı push edin (`git push origin feature/yeniozellik`).
 5. Bir Pull Request gönderin.
 
-## Lisans
+## 📄 Lisans
 
 Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasını inceleyin.
